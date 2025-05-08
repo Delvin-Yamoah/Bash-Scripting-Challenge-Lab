@@ -1,0 +1,52 @@
+2025-05-08 13:03:20 - Reading users from users.txt...
+2025-05-08 13:03:20 - Creating group ...
+2025-05-08 13:03:20 - Creating user ...
+2025-05-08 13:03:20 - Permissions set for home directory of  (chmod 700).
+2025-05-08 13:03:20 - Email notification sent to delvin.yamoah@amalitechtraining.org about user  creation.
+2025-05-08 13:03:20 - User  setup completed.
+2025-05-08 13:03:20 - Creating group ...
+2025-05-08 13:03:20 - Creating user ...
+2025-05-08 13:03:20 - Permissions set for home directory of  (chmod 700).
+2025-05-08 13:03:20 - Email notification sent to delvin.yamoah@amalitechtraining.org about user  creation.
+2025-05-08 13:03:20 - User  setup completed.
+2025-05-08 13:03:20 - Creating group ...
+2025-05-08 13:03:20 - Creating user ...
+2025-05-08 13:03:20 - Permissions set for home directory of  (chmod 700).
+2025-05-08 13:03:20 - Email notification sent to delvin.yamoah@amalitechtraining.org about user  creation.
+2025-05-08 13:03:20 - User  setup completed.
+2025-05-08 13:03:20 - Creating group ...
+2025-05-08 13:03:20 - Creating user ...
+2025-05-08 13:03:21 - Permissions set for home directory of  (chmod 700).
+2025-05-08 13:03:21 - Email notification sent to delvin.yamoah@amalitechtraining.org about user  creation.
+2025-05-08 13:03:21 - User  setup completed.
+2025-05-08 13:03:21 - IAM setup completed.
+[2025-05-08 13:44:52] ERROR: This script must be run as root
+=== USER CREATION LOG - 2025-05-08 13:48:26 ===
+[2025-05-08 13:48:26] ERROR: Users file  not found
+=== USER CREATION LOG - 2025-05-08 13:48:57 ===
+[2025-05-08 13:48:57] INFO: Starting user creation from users.txt
+[2025-05-08 13:48:57] PROCESSING: Creating jdoe (John Doe)
+=== USER CREATION LOG - 2025-05-08 13:55:37 ===
+[2025-05-08 13:55:37] INFO: Starting user creation from users.txt
+[2025-05-08 13:55:37] PROCESSING: Creating jdoe (John Doe)
+=== USER CREATION LOG - 2025-05-08 14:06:54 ===
+[2025-05-08 14:06:54] INFO: Starting user creation from users.txt
+[2025-05-08 14:06:54] PROCESSING: Creating jdoe (John Doe)
+[2025-05-08 14:06:54] WARNING: Group engineering does not exist, skipping user addition to group.
+[2025-05-08 14:06:54] SUCCESS: Created jdoe. Email sent to yamoahdelvin@gmail.com
+[2025-05-08 14:06:54] PROCESSING: Creating asmith (Alice Smith)
+[2025-05-08 14:06:55] WARNING: Group engineering does not exist, skipping user addition to group.
+[2025-05-08 14:06:55] SUCCESS: Created asmith. Email sent to delvin.yamoah@amalitechtraining.org 
+[2025-05-08 14:06:55] PROCESSING: Creating mjones (Mike Jones)
+[2025-05-08 14:06:55] WARNING: Group design does not exist, skipping user addition to group.
+[2025-05-08 14:06:55] SUCCESS: Created mjones. Email sent to gimmebread2@gmail.com
+[2025-05-08 14:06:55] INFO: User creation completed. Log saved to ./iam_setup.log
+=== USER CREATION LOG - 2025-05-08 14:42:55 ===
+[2025-05-08 14:42:55] INFO: Starting user creation from users.txt
+[2025-05-08 14:42:55] PROCESSING: Creating jdoe (John Doe)
+[2025-05-08 14:42:55] WARNING: User jdoe already exists. Skipping.
+[2025-05-08 14:42:55] PROCESSING: Creating asmith (Alice Smith)
+[2025-05-08 14:42:55] WARNING: User asmith already exists. Skipping.
+[2025-05-08 14:42:55] PROCESSING: Creating mjones (Mike Jones)
+[2025-05-08 14:42:55] WARNING: User mjones already exists. Skipping.
+[2025-05-08 14:42:55] INFO: User creation completed. Log saved to ./iam_setup.log
